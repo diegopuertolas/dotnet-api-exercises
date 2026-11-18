@@ -2,7 +2,8 @@
 
 - [FilmsApi](#films-api)
 - [IncidentsApi](#incidents-api)
-- [ReservasDeportivasApi](#reservas-deportivas)
+- [ReservasDeportivasApi](#reservas-deportivas-api)
+- [RestaurantApi](#restaurant-api)
 
 ## FilmsApi
 
@@ -111,3 +112,9 @@ Entrega en Classroom **un único archivo ZIP** que contenga:
 La documentación complementaria es opcional y **no sustituye las capturas obligatorias** de las pruebas.
 
 </details>
+
+
+## RestaurantApi
+
+[Ir al repositorio](https://github.com/diegopuertolas/RestaurantApi)
+
