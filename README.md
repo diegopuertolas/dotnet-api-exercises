@@ -14,6 +14,8 @@
 
 ## ReservasDeportivasApi
 
+#### Prueba práctica realizada en clase
+
 [Ir al repositorio](https://github.com/diegopuertolas/ReservasDeportivasApi)
 
 <details>
